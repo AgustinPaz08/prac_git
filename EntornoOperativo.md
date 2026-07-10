@@ -1,0 +1,2 @@
+El sistema será una aplicación web desarrollada utilizando HTML, CSS y JavaScript, accesible desde navegadores modernos como Google Chrome, Mozilla Firefox y Microsoft Edge. Se ejecutará en un servidor web y utilizará una base de datos para almacenar la información de socios, grupos familiares, pagos y espacios funerarios.
+Los usuarios podrán acceder al sistema desde computadoras con Windows, Linux o macOS que dispongan de conexión a Internet, sin necesidad de instalar software adicional.
