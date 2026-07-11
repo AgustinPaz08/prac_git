@@ -1,6 +1,0 @@
-RNF1 Eficiencia
-El sistema deberá responder a cualquier consulta o registro en un tiempo máximo de 3 segundos para hasta 50 usuarios concurrentes.
-RNF2 Seguridad lógica y de datos
-El sistema deberá requerir autenticación mediante usuario y contraseña para acceder, permitir únicamente las funciones autorizadas según el rol del usuario y realizar un respaldo automático de la base de datos una vez al día.
-RNF3 Usabilidad
-Un usuario administrativo deberá ser capaz de aprender a utilizar las funciones principales del sistema en un tiempo máximo de 2 horas de capacitación, y los mensajes de error deberán indicar claramente la causa del problema y cómo solucionarlo.
